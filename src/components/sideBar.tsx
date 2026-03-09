@@ -4,12 +4,11 @@
     <div className="sidebar">
 
           <div className="sidebar-trending">
-          <div className="sidebar-trending-item">
-
+          <div className="sidebar-trending-item"></div>
           </div>
-            
+          <div className="sidebar-continue"></div>  
 
-          </div>
+          
 
     </div>
   )

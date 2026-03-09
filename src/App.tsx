@@ -7,9 +7,8 @@ import Navbar from "./components/navbar";
 export default function App() {
   return (
     <div className="pagecontainer">
-      {/* <Sidebar/> */}
-      {/* <Searchbar/> */}
       <Navbar />
+      <Sidebar/>
     </div>
   );
 }
