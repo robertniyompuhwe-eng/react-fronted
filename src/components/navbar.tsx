@@ -1,5 +1,5 @@
 import { Bell } from "lucide-react";
-import Searchbar from "./searchBar";
+import Searchbar from "./searchbar";
 
 export default function Navbar() {
   return (
